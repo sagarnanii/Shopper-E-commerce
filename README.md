@@ -1,4 +1,5 @@
-INTERN ID: CITS1803
+INTERN ID: CITS2102
+
 # Shopper - Full Stack MERN E-Commerce Platform
 
 Shopper is a fully functional, modern e-commerce web application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It features a sleek user storefront for browsing clothing items, a dynamic shopping cart, and a dedicated Admin Panel for product management.
